@@ -1,0 +1,5 @@
+FSharp.Core
+Nancy
+Nancy.Hosting.Self
+NLog
+NLog.Targets.ElasticSearch
