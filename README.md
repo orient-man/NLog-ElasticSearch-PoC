@@ -1,0 +1,1 @@
+More info: https://github.com/ReactiveMarkets/NLog.Targets.ElasticSearch/wiki
